@@ -1,0 +1,11 @@
+Flask==0.9
+Flask-RESTful==0.1.2
+Jinja2==2.6
+Werkzeug==0.8.3
+argparse==1.2.1
+distribute==0.6.24
+lxc4u==0.0.4
+overlay4u==0.0.4
+subwrap==0.0.1
+uWSGI==1.4.3
+wsgiref==0.1.2
